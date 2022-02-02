@@ -5,4 +5,4 @@
 
 ##Purpose
 
-##How To Continue
+##How To Contribute
